@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '656'
     url: http://www.gutenberg.org/2009/agents/656
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20549#Historic-Tales--The-Romance-of-Reality.-Vol.-09--of-15--Scandinavian
 gutenberg_issued: '2007-02-09'
 gutenberg_type: Text
 identifiers:
